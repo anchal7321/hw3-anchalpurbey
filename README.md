@@ -37,3 +37,13 @@ The agent will work through each question in `math_questions.md` and print the R
 ## Video walkthrough
 https://youtu.be/Ws0KR2p3d9U
 
+
+## Full commit history
+- 2103532 Add week 4 starter: math agent with tool use
+- 87b2fb9 Implement product lookup tool
+- ec07847 Add walkthrough video link to README
+
+## Full commit history
+- 2103532 Add week 4 starter: math agent with tool use
+- 87b2fb9 Implement product lookup tool
+- ec07847 Add walkthrough video link to README
